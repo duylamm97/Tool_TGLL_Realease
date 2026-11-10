@@ -1,0 +1,47 @@
+﻿# ==========================================
+#   NDL TOOLKIT — UNIVERSAL .GITIGNORE
+# ==========================================
+
+# 1. FILE THỰC THI & NHỊ PHÂN (Phát hành qua GitHub Releases)
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.msi
+
+# 2. .NET / C# BUILD OUTPUTS
+bin/
+obj/
+*.user
+*.suo
+
+# 3. PYTHON CACHE & VENV
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.spec
+.venv/
+venv/
+env/
+
+# 4. CAD & BACKUP FILES
+*.bak
+*.bk1
+*.dwl
+*.dwl2
+backups/
+
+# 5. IDE & OS SYSTEM
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 6. LOGS & TEMPORARY
+*.log
+*.tmp
+logs/

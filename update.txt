@@ -1,0 +1,5 @@
+﻿langla-update 1
+version=3.1.2
+tag=v3.1.2
+changelog=1. Dong goi tron ven 100% bo hook unity-runtime (winhttp.dll, BepInEx core, LangLaBot.dll, dotnet CoreCLR, UCRT DLLs cho VPS/Windows Server).\n2. Bo sung co che tu go bo khoa Zone.Identifier (Mark of the Web) chong Windows/Defender chan nap DLL hook.\n3. Tu dong dong bo ten nhan vat theo ten dang nhap ngay khi nguoi dung nhap xong tai khoan.\n4. Toi uu thu muc mac dinh TheGioiLangLa-VPS nam ngay trong thu muc tool tranh loi quyen ghi o dia C.
+exe=Tool_TGLL_Auto.exe 912994 d3682126fe608bbac73af0e897f9f14592de20aeff63c886a12e500addef4bbc
